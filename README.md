@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Bernardosds/Bernardosds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Typing SVG
+:octocat: Bem vindos(as)!
+Estudando JavaScript e TypeScript, 📚
+Graduanda em Análise e Desenvolvimento de Sistemas _ IFRS 👩‍🎓
+Utilizo Vs Code e Github como ferramentas para desenvolvimento,
+Em constante aprendizagem, foco em aperfeiçoamento.
+ 
 
-Here are some ideas to get you started:
+Dris-Js Dris-Ts Dris-CHTML CSS Dris-G
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Visitors Count
+
+
+
+
+
 -->
