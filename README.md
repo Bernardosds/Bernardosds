@@ -1,6 +1,4 @@
 
-
-README EM MANUTENÇÃO 
 <div>
 <a href="
 https://github.com/https://github.com/Bernardosds">
